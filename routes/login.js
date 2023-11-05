@@ -6,9 +6,11 @@ require('dotenv').config()
 const jwt = require('jsonwebtoken')
 const {User, validate}= require('../models/register')
 const router = express.Router();
+const limiter = require('../middleware/rate-limit')
+
 const key = process.env.SECRET_KEY
 
-router.post('/', async (req, res) => {
+router.post('/', limiter, async (req, res) => {
     try {
         const { username, password } = req.body;
 
@@ -29,7 +31,6 @@ router.post('/', async (req, res) => {
 
         //   res.json({token});
           res.header('x-auth-token', token).send({message:'logged in successfully'});
-
 
     } catch (error) {
     console.error(error);
