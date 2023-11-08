@@ -7,7 +7,8 @@ const router = express.Router();
 const key = process.env.SECRET_KEY
 
 router.get('/', [limiter, authenticateToken], (req, res) => {
-    res.json({ message: 'Protected route' });
+  res.render('index', { title: 'Admin Dashboard', message: 'Welcome Admin!' });
+    // res.json({ message: 'Protected route' });
   });
 
   module.exports=router;

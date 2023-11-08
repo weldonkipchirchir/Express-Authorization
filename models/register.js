@@ -1,4 +1,4 @@
-const config = require('config');
+// const config = require('config');
 const jwt = require('jsonwebtoken');
 const Joi = require('joi');
 const mongoose = require('mongoose');
@@ -8,7 +8,7 @@ const userSchema = new mongoose.Schema({
     username:{type:String,
     required:true,
     minlength: 5,
-    maxlength:50
+    maxlength:50, unique:true
 },
     password: String,
 })

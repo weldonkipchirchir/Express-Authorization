@@ -9,7 +9,6 @@ const {
     validate
 } = require('../models/register')
 const limiter = require('../middleware/rate-limit')
-
 const asyncMiddleware = require('../middleware/async')
 const router = express.Router();
 

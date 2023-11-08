@@ -1,1 +1,49 @@
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"error","message":"Somethimg has failed miserably!"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"error","message":"Somethimg has failed miserably!"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Connected to MongoDB"}
 {"level":"error","message":"Could not get user"}
+{"level":"error"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"error","message":"Error in index.js"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"error","message":"Error in index.js"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"error","message":"Error in index.js"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"error","message":"Error in index.js"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"error","message":"Error in index.js"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"error","message":"Could not get user"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"error","message":"Could not get user"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"error","message":"No default engine was specified and no extension was provided."}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"error","message":"Cannot find module 'pug'\nRequire stack:\n- C:\\Users\\Mylene\\Downloads\\CodeWithMoshNodeJS\\NodeJS-Projects\\Express Authorization\\node_modules\\express\\lib\\view.js\n- C:\\Users\\Mylene\\Downloads\\CodeWithMoshNodeJS\\NodeJS-Projects\\Express Authorization\\node_modules\\express\\lib\\application.js\n- C:\\Users\\Mylene\\Downloads\\CodeWithMoshNodeJS\\NodeJS-Projects\\Express Authorization\\node_modules\\express\\lib\\express.js\n- C:\\Users\\Mylene\\Downloads\\CodeWithMoshNodeJS\\NodeJS-Projects\\Express Authorization\\node_modules\\express\\index.js\n- C:\\Users\\Mylene\\Downloads\\CodeWithMoshNodeJS\\NodeJS-Projects\\Express Authorization\\index.js"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"error","message":"C:\\Users\\Mylene\\Downloads\\CodeWithMoshNodeJS\\NodeJS-Projects\\Express Authorization\\views\\index.pug:2:1\n    1|    html\r\n  > 2|      head\r\n-------^\n    3|        title= title\r\n    4|      body\r\n    5|        h1= message\r\n\nunexpected token \"indent\""}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"error","message":"C:\\Users\\Mylene\\Downloads\\CodeWithMoshNodeJS\\NodeJS-Projects\\Express Authorization\\views\\index.pug:2:1\n    1|    html\r\n  > 2|      head\r\n-------^\n    3|        title= title\r\n    4|      body\r\n    5|        h1= message\r\n\nunexpected token \"indent\""}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Connected to MongoDB"}
